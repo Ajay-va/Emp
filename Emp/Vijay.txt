@@ -18,5 +18,11 @@ public static void main(String []agrs){
 System.out.println(Student.class.getClassLoader);
 
 System.out.println(Employee.class.getClassLoader);
+
+
+System.out.println(Teacher.class.getClassLoader);
+
+System.out.println(Employee.class.getClassLoader);
+
 }
 }
