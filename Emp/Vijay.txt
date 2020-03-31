@@ -1,5 +1,4 @@
-
-HIIIIIIII AJAY VARMA JAVVAJI 
+Null implementation  
 
 
 <<<<<<< HEAD:Emp/Vijay.txt
