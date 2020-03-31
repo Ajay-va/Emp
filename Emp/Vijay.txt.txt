@@ -1,6 +1,13 @@
+
+class Student{
+}
+
 class Employee{
 public static void main(String []agrs){
 {
+
+System.out.println(Student.class.getClassLoader);
+
 System.out.println(Employee.class.getClassLoader);
 }
 }
