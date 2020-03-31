@@ -1,3 +1,13 @@
+
+Hi Hello Iam Ajay Varma Javvaji
+
+
+Hello hiii Ramana 
+
+
+Hello good morning all of you guys 
+
+
 <<<<<<< HEAD:Emp/Vijay.txt
 class Hello{
 }
@@ -26,3 +36,7 @@ System.out.println(Employee.class.getClassLoader);
 
 }
 }
+
+
+
+
