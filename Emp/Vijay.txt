@@ -8,6 +8,9 @@ class Student{
 }
 >>>>>>> cb48889da6f5890bc696c77d4d719a99581e15dd:Emp/Vijay.txt.txt
 
+class Teacher{
+}
+
 class Employee{
 public static void main(String []agrs){
 {
