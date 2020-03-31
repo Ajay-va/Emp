@@ -1,3 +1,7 @@
+class Hello{
+}
+
+
 class Employee{
 public static void main(String []agrs){
 {
