@@ -2,12 +2,9 @@
 Hi Hello Iam Ajay Varma Javvaji
 
 
-Hello hiii Ramana 
+Hello friends how are ?
 
-
-Hello good morning all of you guys
-
-Hello friends How are you all? 
+Good morning friends 
 
 
 <<<<<<< HEAD:Emp/Vijay.txt
